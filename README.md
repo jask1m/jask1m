@@ -1,9 +1,15 @@
-### Hi, I'm Jason 👋
+<h1 align="center">Hi 👋 I'm Jason Kim</h1>
 
-- 🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
-- 🌱 I’m currently building a fullstack poker application - stay tuned!
-- 🔭 I’m actively seeking SWE internship roles
-- 📫 How to reach me: <jason.kim02@sjsu.edu>
+# 💫 About Me:
+🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
+
+## 🚀 What I'm Up To
+  - 🃏 Building a fullstack poker application - stay tuned!
+  - 🤖 Exploring Machine Learnign through [DeepLearning.AI](https://www.deeplearning.ai/)
+  - 🔭 Actively seeking SWE internship roles
+
+Check out my: [personal website](https://jason-personal-portfolio.vercel.app/)<br/>
+📫 How to reach me: <jason.kim02@sjsu.edu>
 
 #### Languages/Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
