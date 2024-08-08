@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm Up To
   - 🃏 Building a fullstack poker application - stay tuned!
-  - 🤖 Exploring Machine Learnign through [DeepLearning.AI](https://www.deeplearning.ai/)
+  - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
   - 🔭 Actively seeking SWE internship roles
 
 Check out my: [personal website](https://jason-personal-portfolio.vercel.app/)<br/>
