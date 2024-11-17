@@ -4,7 +4,7 @@
 🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
 
 ## 🚀 What I'm Up To
-  - 🃏 Building a fullstack poker application - stay tuned!
+  - 🃏 Building ...
   - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
   - 🔭 Actively seeking SWE internship roles
 
