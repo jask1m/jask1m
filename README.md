@@ -4,9 +4,9 @@
 🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
 
 ## 🚀 What I'm Up To
-  - 🃏 Building ...
+  - 💻 Learning Next.js, Android in Kotlin, and Spring Boot Backend
   - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
-  - 🔭 Actively seeking SWE internship roles
+  - ✏️ Solving problems on leetcode
 
 Check out my: [personal website](https://jason-personal-portfolio.vercel.app/)<br/>
 📫 How to reach me: <jason.kim02@sjsu.edu>
