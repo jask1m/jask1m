@@ -4,7 +4,7 @@
 🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
 
 ## 🚀 What I'm Up To
-  - 💻 Learning Next.js, Android in Kotlin, and Spring Boot Backend
+  - 💻 Currently, I'm building a native android application with Kotlin. I'm also exploring Next.js for web-dev
   - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
   - ✏️ Solving problems on leetcode
 
