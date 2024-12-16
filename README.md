@@ -4,11 +4,10 @@
 🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
 
 ## 🚀 What I'm Up To
-  - 💻 Currently, I'm building a native android application with Kotlin. I'm also exploring Next.js for web-dev
+  - 💻 Currently, I'm interested in mobile. Learning native android with Kotlin. Then planning to touch Swift and React-Native
   - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
   - ✏️ Solving problems on leetcode
 
-Check out my: [personal website](https://jason-personal-portfolio.vercel.app/)<br/>
 📫 How to reach me: <jason.kim02@sjsu.edu>
 
 #### Languages/Technologies:
