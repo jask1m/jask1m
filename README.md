@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋 I'm Jason Kim</h1>
 
 # 💫 About Me:
-🏫 I'm a Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
+📦 Incoming SDE Intern @ Amazon<br/>
+🏫 Computer Science student @ [SJSU](https://www.sjsu.edu/)<br/>
 
 ## 🚀 What I'm Up To
-  - 💻 Currently, I'm interested in mobile. Learning native android with Kotlin. Then planning to touch Swift and React-Native
+  - 💻 Currently, I'm interested in mobile. Stay on the lookout for an app 👀
   - 🤖 Exploring Machine Learning through [DeepLearning.AI](https://www.deeplearning.ai/)
   - ✏️ Solving problems on leetcode
 
-📫 How to reach me: <jason.kim02@sjsu.edu>
+📫 I read every email: <jason.kim02@sjsu.edu>
 
 #### Languages/Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
