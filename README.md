@@ -26,4 +26,4 @@
 </div>
 
 ___
-#### [LinkedIn](https://www.linkedin.com/in/jasonkimdev/) - [Email](mailto:jason.kim02@sjsu.edu) - [Website](https://www.jkjason.xyz/)
+#### [LinkedIn](https://www.linkedin.com/in/jasonkimdev/) - [Email](mailto:jason.kim02@sjsu.edu)
